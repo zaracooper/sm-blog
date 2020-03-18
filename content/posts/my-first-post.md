@@ -1,7 +1,7 @@
 ---
 title: "My First Post"
 date: 2020-03-18T15:59:53+03:00
-draft: true
+draft: false
 ---
 
 ![Cat One](cat-1.jpeg)
