@@ -1,0 +1,32 @@
+# Site settings
+baseurl = "your_firebase_address"
+languageCode = "en"
+title = "SM Blog"
+theme = "hugo-theme-cactus-plus"
+googleAnalytics = "your_google_analytics_id"
+
+[params]
+	# My information
+	author = "Cat Lense"
+	description = "blog about cats"
+	bio = "cat photographer"
+	twitter = "cats"
+	copyright = "Cat Photographer"
+
+	# Tools 
+	enableRSS = true
+	enableDisqus = true
+	disqusShortname = "your_disqus_short_name"
+	enableSummary = true
+	enableGoogleAnalytics = true
+	enableTwitterCard = true
+
+	# Navigation links
+	home = ""
+	about = ""
+	archive = ""
+	subscribe = ""
+
+[social]
+	twitter = "https://twitter.com/cats"
+	github = "https://github.com/cats"
